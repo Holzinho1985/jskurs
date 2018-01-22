@@ -1,1 +1,2 @@
-# jskurs
+# Javascript lernen
+- erster Tag
